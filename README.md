@@ -28,15 +28,8 @@ It simulates a real-world software engineering environment where developers coll
 - **CI/CD:** GitHub Actions
 - **Security:** JWT Authentication, HTTPS, Environment Variables
 
----
 
 ## 👥 Team Collaboration
 This project emphasizes teamwork, code reviews, and documentation.  
 Each member contributes to backend modules, database models, and CI/CD configurations following Git best practices.
 
----
-
-## 🚀 Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/airbnb-clone-project.git
